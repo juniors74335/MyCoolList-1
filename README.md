@@ -6,7 +6,7 @@ Android application for a school workshop project.
 Description
 ------------
 
-MyCoolList is an application to manage an items list. The user could add tags with each items to manage categories and ease filtering. 
+MyCoolList is an application to manage an items list. The user can add tags with each items to manage categories and ease filtering. 
 
 Features
 --------
