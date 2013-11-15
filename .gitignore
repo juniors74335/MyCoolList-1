@@ -30,3 +30,6 @@ proguard/
 
 # Personnal Documents Ressources
 Documents/
+
+# Mac BS
+.DS_Store
