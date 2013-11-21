@@ -24,7 +24,12 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int LLTop=0x7f080000;
+        public static final int RLMiddle=0x7f080003;
+        public static final int action_settings=0x7f080005;
+        public static final int btnAddTask=0x7f080002;
+        public static final int etTest=0x7f080001;
+        public static final int lvTasks=0x7f080004;
     }
     public static final class layout {
         public static final int activity_my_cool_list_main=0x7f030000;
